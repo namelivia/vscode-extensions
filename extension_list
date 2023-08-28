@@ -3,3 +3,7 @@ github.copilot # Github copilot integration
 github.copilot-chat # Copilot chat integration
 vscodevim.vim # Simulate VIM in vscode
 eamodio.gitlens # Complete set of tools for git
+editorconfig.editorconfig # Apply .editorconfig project files
+vscode-icons-team.vscode-icons # Additional icons
+tonybaloney.vscode-pets # Cute pet
+esbenp.prettier-vscode # Prettier for code formatting
