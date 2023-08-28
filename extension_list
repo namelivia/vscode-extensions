@@ -1,5 +1,5 @@
-akamud.vscode-theme-onedark
-github.copilot
-github.copilot-chat
-vscodevim.vim
-eamodio.gitlens
+akamud.vscode-theme-onedark # Popular theme
+github.copilot # Github copilot integration
+github.copilot-chat # Copilot chat integration
+vscodevim.vim # Simulate VIM in vscode
+eamodio.gitlens # Complete set of tools for git
