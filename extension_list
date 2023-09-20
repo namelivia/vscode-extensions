@@ -8,3 +8,4 @@ vscode-icons-team.vscode-icons # Additional icons
 tonybaloney.vscode-pets # Cute pet
 esbenp.prettier-vscode # Prettier for code formatting
 ms-python.python # Official Python extension
+ms-vscode-remote.remote-containers # Open any folder or repository inside a Docker container
