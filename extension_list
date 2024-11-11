@@ -12,3 +12,4 @@ ms-vscode-remote.remote-containers # Open any folder or repository inside a Dock
 jasonnutter.vscode-codeowners # Show codeowners of a file
 mechatroner.rainbow-csv # Work with CSV files
 redhat.vscode-yaml # Yaml language support
+nextchaptersoftware.unblocked-vscode # Use Unblocked to ask questions
